@@ -21,6 +21,7 @@ function App() {
       })
       .finally(() => setLoading(false));
   }, []);
+
   return (
     <>
       <h1>Hello World!</h1>
