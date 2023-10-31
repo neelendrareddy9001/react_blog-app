@@ -7,14 +7,17 @@ import Login from "./Login";
 import Post from "./Post";
 import PostCard from "./PostCard";
 import AuthLayout from "./AuthLayout";
+import Input from "./Input";
 
 export {
   Header,
   Footer,
   Container,
   Logo,
+  Post,
   LogOutButton,
   Login,
+  Input,
   PostCard,
   AuthLayout,
 };
